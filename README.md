@@ -5,3 +5,5 @@ For this project, I collected roughly 12,000 Tweets in 48 hours to geographicall
 Tools: Tweepy, GeoPy, vaderSentiment, Dash.
 
 See the listener.ipynb for the full walkhrough.
+
+![alt text](https://raw.githubusercontent.com/philipharman/twitter-sentiment-public/master/dashboard.png)
