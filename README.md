@@ -7,5 +7,8 @@ Tools: Tweepy, GeoPy, vaderSentiment, Dash.
 See the listener.ipynb for the full walkhrough.
 
 
+Full writeup & deploye app available here: philipharman.wixsite.com/portfolio/twitter-sentiment
+
+
 
 ![alt text](https://raw.githubusercontent.com/philipharman/twitter-sentiment-public/master/dashboard.png)
